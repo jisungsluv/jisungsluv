@@ -26,9 +26,10 @@ data: <b>SQL, postgresql, power bi, excel.</b> <br>
 <a href="https://www.instagram.com/lavisbeirk/">instagram</a><br>
 <a href="https://github.com/scriptlver">github</a><br>
 
----
+[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jisungsluv&bg_color=00000&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true)](https://github.com/jisungsluv/github-readme-activity-graph)
 
-✨ <i>Always looking for new challenges and opportunities to grow.</i>  
+
+💌 <i>always looking for new challenges and opportunities to grow.</i>  
 
 </div>
 
