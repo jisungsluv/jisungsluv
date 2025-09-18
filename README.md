@@ -24,10 +24,10 @@ front-end frameworks with <b>react</b><br>
 data visualization with <b>power bi</b><br>
 
 
-<h2>📫 Connect with Me</h2>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a><br>
-<a href="https://YOUR-PORTFOLIO.com">Portfolio</a><br>
-✉️ Email: <b>YOUR-EMAIL</b>
+<h2> connect with me</h2>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">linkedin</a><br>
+<a href="https://YOUR-PORTFOLIO.com">instagram</a><br>
+✉️ email: <b>YOUR-EMAIL</b>
 
 ---
 
