@@ -6,7 +6,7 @@ welcome to my github profile! 💌
 <br>
 i started my journey in information systems in 2024, and since then i’ve been working on projects in both english and portuguese. my goal is always to evolve, explore and solidify my skills through real work.  
 
-<h2> tech stack</h2>
+<h2> studying at the moment </h2>
 ❤️ languages: <b>javascript, python, java. </b> <br>
 ❤️ web: <b>HTML, CSS, react, node.js.</b> <br>
 ❤️ tools: <b>git, github, vs code, figma.</b> <br>
