@@ -25,9 +25,9 @@ data visualization with <b>power bi</b><br>
 
 
 <h2> connect with me</h2>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">linkedin</a><br>
-<a href="https://YOUR-PORTFOLIO.com">instagram</a><br>
-✉️ email: <b>YOUR-EMAIL</b>
+<a href="https://www.linkedin.com/in/lavinia-d-289973308/">linkedin</a><br>
+<a href="https://www.instagram.com/lavisbeirk/">instagram</a><br>
+<a href="https://github.com/scriptlver">github</a><br>
 
 ---
 
