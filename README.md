@@ -20,6 +20,7 @@ hobbies: <b>working out, listening to music, coding, sleeping, shopping for clot
 
 [![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jisungsluv&bg_color=00000&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true)](https://github.com/jisungsluv/github-readme-activity-graph)
 
+![snake gif](https://github.com/jisungsluv/jisungsluv/blob/output/github-snake-dark.svg)
 
 💌 <i>always looking for new challenges and opportunities to grow.</i>  
 
